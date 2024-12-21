@@ -1,5 +1,5 @@
 spisok = []
-num = int(input("vvedite kolichestvo chisel "))
+num = int(input("введите количсетво чисел"))
 for i in range(num):#запрашивает числа num раз
     a = int(input("chislo "))
     spisok.append(a)
